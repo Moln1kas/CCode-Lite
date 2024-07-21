@@ -25,4 +25,7 @@ Create your own game without knowledge programming languages. Logic blocks only
 * Sprites/ - All the sprites of the application are stored here
 * Strings/ - This is the folder of all available translations
 
-# F
+# Features
+* small rewrite themes system
+* add new cdog's :skull:
+* app support
